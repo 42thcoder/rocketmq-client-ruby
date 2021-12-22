@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require "rocketmq/client/ruby"
+require "rocketmq/rocketmq"
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
